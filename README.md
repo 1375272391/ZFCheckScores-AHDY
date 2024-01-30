@@ -82,3 +82,7 @@ _若是第一次运行程序，上述步骤会执行两遍_
 ## 特别感谢
 
 [openschoolcn/zfn_api](https://github.com/openschoolcn/zfn_api "openschoolcn/zfn_api")
+
+## 其他
+
+XM137的学校使用金智认证登录方正
