@@ -29,7 +29,7 @@ jobs:
 
       - name: Fetch upstream changes # 添加上游仓库作为远程仓库，并获取上游仓库的main分支的最新更改
         run: |
-          git remote add upstream https://github.com/NianBroken/ZFCheckScores.git
+          git remote add upstream https://github.com/1375272391/ZFCheckScores-AHDY.git #实际情况是使用金智登录后跳转正方
           git fetch upstream main
 
       - name: Backup local .txt files # 创建一个备份目录，并将当前目录中的所有.txt文件复制到备份目录
